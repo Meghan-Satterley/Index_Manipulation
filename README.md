@@ -1,4 +1,4 @@
-# CS303_Assignment01
+# Index_Manipulation
 Program objective:
 
 This program reads in a text file of 10 lines with 10 values on each line in order to perform the following:
